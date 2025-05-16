@@ -1,2 +1,2 @@
 # pathfinder-js
-🔥 This tool is a framework that helps you decide the best path of development based on your specific JS needs
+🔥 This is meant to be a framework that helps you decide the best development stack based on your project's specific JS needs
